@@ -1,2 +1,2 @@
 
-https://kirryya.github.io/rsschool-cv/cv
+https://kirryya.github.io/rsschool-cv/
