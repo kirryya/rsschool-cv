@@ -3,10 +3,10 @@
 
 ### Contacts
 
-Republic of Belarus, Minsk
-Phone: +375-33-6652388
-Email: kirylchyk.andrei@gmail.com
-GitHub: [https://github.com/kirryya]
+* Republic of Belarus, Minsk
+* Phone: +375-33-6652388
+* Email: kirylchyk.andrei@gmail.com
+* GitHub: [https://github.com/kirryya]
 
 
 ### About Me
@@ -35,15 +35,15 @@ function narcissistic(value) {
 
 ### Eхpirience
 
-One Life - 01.2022 - present 
-Project Work - 08.2021 - 01.2022
+* One Life - 01.2022 - present 
+* Project Work - 08.2021 - 01.2022
 
 
 ### Education
 
-2021 - FrontEnd Developer (IT-Incubator)
-2010 - 2011 - Master of Engineerinf Sciences (BNTU)
-2005 - 2010 - Engineer (BNTU)
+* 2021 - FrontEnd Developer (IT-Incubator)
+* 2010 - 2011 - Master of Engineerinf Sciences (BNTU)
+* 2005 - 2010 - Engineer (BNTU)
 
 
 ### English
