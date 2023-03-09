@@ -16,7 +16,7 @@ Now I am improving my skills in this direction and expanding them with new techn
 
 
 ### Skills
-React Redux JavaScript TypeScript CSS3 Sass HTML5 Ajax Git Postman TDD Material UI Thunk Rest API Heroku GitHub GitLab Axios Formik AntD
+React Redux JavaScript TypeScript CSS3 Sass HTML5 Ajax Git TDD Material UI Thunk Rest API Heroku GitHub GitLab Axios Formik AntD
 
 
 ### Code Example
